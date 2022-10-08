@@ -1,6 +1,6 @@
 # EO-SimpleSaveEditor
 
-A simple save editor for the 3DS Etrian Odyssey games that lets you edit levels and add/remove them from the party so you can run a 6man party
+A very simple save editor for the 3DS Etrian Odyssey games that lets you edit levels, and add/remove members from the party so you can run a 6man party
 
 Keep in mind that changing levels like this doesnt actually update the character, you'll have to rest them so they can get the correct stats and SP so make sure you add +2 more levels than you actually want. It should be fine even its above LV 99/130 assuming you rest them right away
 
