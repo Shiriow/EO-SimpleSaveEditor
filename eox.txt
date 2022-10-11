@@ -1,0 +1,770 @@
+Blank
+Attack
+Healing Wall
+Preemptive Taunt
+Front Guard
+Ally Shield
+Shield Smite
+Taunt
+Fortify
+Rear Guard
+Chop
+Aegis
+Phys DEF Up
+Elem DEF Up
+Keep Guard
+Recovery Guard
+Fire Wall
+Ice Wall
+Volt Wall
+Shield Bash
+En Garde
+HP Up
+Heal Guard
+Line Shield
+Full Guard
+Shield Flare
+Shield Protect
+Painless
+Force 3
+Scavenge
+Antibodies
+Patch Up
+Healing
+Line Heal
+Refresh
+Revive
+Head Bash
+Take
+Final Gift
+Elem DEF Up
+Auto-Revive
+Delayed Heal
+Unbind
+Group Therapy
+Star Drop
+Medical Rod
+Safe Passage
+Overheal
+Staff Mastery
+Heal-All
+Chase Heal
+Deja Vu
+Heavy Strike
+Intensive Care
+Healing Touch
+Force 3
+Risk Perception
+Blind Arrow
+Power Shot
+Chain Dance
+Flame Arrow
+Resuscitate
+Safe Passage
+Sorting Skill
+Natural Instinct
+Finishing Shot
+Speed Up
+Flank Shot
+Multi-Shot
+Drop Shot
+Trickery
+Efficiency
+Cautious Steps
+Quick Step
+Disabling Shot
+Nature's Blessing
+Sagittarius Shot
+Hazy Arrow
+Scapegoat
+Sneak Attack
+Illusory Formation
+Mirage Arrow
+Force 3
+Upper Stance
+Clear Stance
+Swift Stance
+Upward Slash
+Charging Thrust
+Sheath Strike
+Breath
+Arm Strike
+Air Blade
+Mine
+Phys ATK Up
+Duel
+Flame Grater
+Lightning Stab
+Frigid Slash
+Helm Splitter
+Haze Slash
+Horizontal Slash
+Full Proficiency
+Speed Up
+Rouse Spirits
+Swallow Strike
+Stone Thrust
+Petal Scatter
+Musou
+Issen
+Force 3
+HP Up
+Turning Tide
+Bloody Veil
+Long Thrust
+Draining Thrust
+Legion Thrust
+Spear Assist
+Spirit Shield
+Mine
+Phys DEF Up
+Bloodlust
+Battle Instinct
+Head Pierce
+Draining Burst
+Legion Burst
+Delayed Charge
+Bloody Offense
+Blood Fortune
+Allied Bonds
+Phys ATK Up
+Black Sabbath
+Spear Reversal
+Cross Charge
+Legion Charge
+Hero Battle
+Gae Bolg
+Force 3
+Cover Support
+Medic Bullet
+Rapid Fire
+Splash Shot
+Arm Snipe
+Leg Snipe
+Shell Shock
+Pop Flare
+Mine
+Penetrator
+Preemptive Fire
+Preemptive Flare
+TP Up
+Head Snipe
+Scattershot
+Feint Shot
+Charged Shot
+Act Quick
+Multi-Shot
+Phys ATK Up
+Charged Fire
+Charged Ice
+Charged Volt
+Ricochet
+Double Action
+Riot Gun
+Force 3
+Royal Veil
+Reinforce
+Attack Order
+Guard Order
+Fire Arms
+Freeze Arms
+Shock Arms
+Negotiation
+Take
+Royal Dignity
+Monarch March
+Royal Lineage
+Prevent Order
+Rally Order
+Tactical Decree
+Protect Order
+Element Bomb I
+Healing Decree
+Renew
+Status DEF Up
+Dauntless Order
+Element Bomb II
+Clearance
+Final Decree
+Victory Vow
+Proof of Nobility
+Force 3
+Singularity
+Etheric Return
+Fire Star
+Ice Star
+Volt Star
+Etheric Gleam
+Etheric Charge
+Horoscope
+Mine
+Etheric Boon
+TP Up
+Anti-Ether
+Ether Mastery
+Binary Fire
+Binary Ice
+Binary Thunder
+Ether Shot
+Dark Ether
+Free Energy
+Multi-Strike Ether
+Meteor
+Fire Prophecy
+Ice Prophecy
+Volt Prophecy
+Divination
+Astrosign
+Force 3
+Proficiency
+Reflexes
+Concealment
+Shadow Bind
+Bone Crusher
+Ninpo: Daggers
+Ninpo: Caltrops
+Ninpo: Mirage
+Chop
+Beheading
+Revenge Bomb
+Auto-Mirage
+Status ATK Up
+Izuna
+Hawk Strike
+Ninpo: Flight
+Ninpo: Mirror
+Ninpo: Double
+Mystic Calm
+Return Malice
+Dominance
+Drawing Slice
+Ninpo: Smoke
+Ninpo: Panic
+Diversion Gambit
+Ninpo: Toxic Mist
+Force 3
+Second Sword
+Avidya Sight
+Bolt Slash
+Echoing Slash
+Great Warrior
+Front Command
+Shot Command
+Taunt Assassins
+Take
+Peerless Demon
+Bloody Lance
+Morale Boost
+Morning Star
+Twilight Hour
+Twin Swallows
+Blitz Command
+Endure Command
+Seppuku
+Reincarnation
+Execution
+Curse Strike
+5-Ring Sword
+Warrior Might
+Swift Justice
+Unified Effort
+Decoy Party
+Force 3
+Proficiency
+Phys DEF Up
+Falcon Slash
+Blazing Link
+Freezing Link
+Electric Link
+Power Break
+Vanguard
+Mine
+Initiative
+Status DEF Up
+Smash Link
+Improved Link
+Double Strike
+Spiral Slice
+Penetrate
+Speed Break
+Guard Break
+Link Mastery
+Single Devotion
+Link Finale
+Sword Tempest
+Swift Stab
+Full Break
+Trinity
+Full Charge
+Force 3
+Proficiency
+Blade Flurry
+Shadow Cloak
+Ice Knife
+Biding Slice
+Sand Throw
+Sleep Throw
+Decoy Sign
+Chop
+Foul Mastery
+Auto-Cloak
+Speed Up
+Shadow Bite
+Nerve Throw
+Curse Throw
+Spread Throw
+Backstab
+Sneak Attack
+Follow Trace
+Auto-Spread
+Enduring Cloak
+Assassinate
+Swift Edge
+Venom Throw
+Killing Intent
+Disaster
+Force 3
+Avenger
+Heat Shield
+Sharp Edge
+Natural Edge
+Blood Edge
+Assault Drive
+Heat Sink
+Heavy Guard
+Mine
+Intercooler
+Status DEF Up
+Trip Edge
+Cool Edge
+Massive Edge
+Impulse Edge
+Flame Drive
+Freeze Drive
+Shock Drive
+Absorber
+HP Up
+Element Boost
+Force Edge
+Charge Edge
+Accel Drive
+Ignition
+Conversion
+Force 3
+Double Punch
+HP Up
+Adrenaline
+Concussion
+Arm Breaker
+Low Blow
+One-Two Punch
+Corkscrew
+Chop
+Fighting Spirit
+Following Strike
+Status ATK Up
+Leading Blow
+Cross Counter
+Fault Blocker
+Devil's Fist
+Clinch
+Breather
+Raging Billows
+Million Rush
+Meditation
+Thunder Fist
+Lash Out
+Resonance Blow
+Bind Rush
+Final Blow
+Force 3
+Endless Shroud
+Black Wave
+Miasma Armor
+Toxic Reap
+Paralyzing Reap
+Stifling Miasma
+Eroding Miasma
+Sluggish Miasma
+Take
+Spirit Absorb
+Black Shroud
+Status ATK Up
+Darkness Reap
+Chaos Reap
+Wilting Miasma
+Binding Miasma
+Atonement
+Soul Transfer
+Death Tolerance
+Enduring Armor
+Ephemeral Reap
+Fatal Reap
+Spirit Barrier
+Miasma Wall
+Endless Armor
+Miasma Tsunami
+Force 3
+Encourage
+Heroic Bonds
+Afterimage
+Mirage Sword
+Wide Bravery
+Frigid Slash
+Clear Mind
+Physical Shield
+Chop
+Great Bravery
+Graceful Image
+Heroic Steel
+Charge Image
+Burst Blade
+Spark Blade
+Fervor
+New Challenger
+Elemental Shield
+Dark Image
+Retain Force
+Regiment Rave
+Act Breaker
+Force Gift
+Guard Rush
+Brave Heart
+Miracle Edge
+Force 3
+Biding Slice
+Finishing Shot
+Blazing Link
+Freezing Link
+Electric Link
+Blitz Command
+Echoing Slash
+Bloodlust
+Fire Prophecy
+Ice Prophecy
+Volt Prophecy
+Ninpo: Caltrops
+Warrior Might
+Message Wait
+Spirit Absorb
+Execution
+Cross Charge
+Delayed Charge
+Battle Instinct
+Sagittarius Shot
+Delayed Heal
+Chase Heal
+Deja Vu
+1 Turn Heal
+Clinch
+Cross Counter
+Upper Stance
+Clear Stance
+Swift Stance
+Turning Tide
+Shield Flare
+Tactical Decree
+Final Decree
+Clearance
+Endure Command
+Heal After 1 Turn
+Poison Damage
+Formation Change
+Swap
+Defend
+Escape
+Items
+Medica
+Amrita
+Hamao
+Nectar
+DUMMY
+DUMMY
+Soma
+Theriaca ƒ¿
+Theriaca ƒ¿ All
+Theriaca ƒÀ
+Theriaca ƒÀ All
+Formaldehyde
+Laudanum
+Unihorn
+Bravant
+Stonard
+Fire Mist
+Chill Mist
+Spark Mist
+Cut Mist
+Bash Mist
+Stab Mist
+All Mist
+Blaze Oil
+Freeze Oil
+Shock Oil
+Axcela
+DUMMY
+DUMMY
+EXP Up
+Codex Register
+DUMMY
+DUMMY
+DUMMY
+Fire Talisman
+Ice Talisman
+Volt Talisman
+Flame Talisman
+Freeze Talisman
+Shock Talisman
+Blind Gas
+Poison Gas
+Nerve Gas
+Confuse Gas
+Curse Gas
+Sleep Gas
+Tangler: Head
+Tangler: Arms
+Tangler: Legs
+DUMMY
+DUMMY
+HP&TP
+Food Effect (HP)
+Food Effect (TP)
+Food Effect (Revive)
+Food Effect (Damage)
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Turn Vampire
+HP Up
+TP Up
+STR Up
+VIT Up
+AGI Up
+LUC Up
+TEC Up
+WIS Up
+Vine Grab: Arm
+Thumb Jab
+Claw Sever
+Harsh Buzz
+Flame Rush
+Volt Strike
+Silver Thrust
+Fake-Out Stab
+Breaking Arrow
+Death Pile
+Whirlwind
+Guard Dance
+Volt Barrage
+Hilt Strike
+Torch Smash
+Leaping Rush
+Gale Flash
+Mind Vigor
+Sumu Kasi
+Hanging
+Infernal Barrier
+Darkness Rend
+Thunder Wall
+Chaos Scream
+Rage Fangs
+Rending Claw
+Phantom Swords
+Immobilizing Cut
+Venomous Stab
+Snail Dance
+Amateur Medic
+Rest
+Amateur Savior
+Halloween
+Chrono Gatling
+Full Thrust
+Glimmering Luck
+Snow Windmill
+Champion's Dignity
+Destructive Tusk
+Fieldwork
+Malice Slash
+Clairvoyant
+Storytelling
+Wide Spark
+Foot Sweep
+Analyze
+Reverse Slash
+Toxic Comet
+Lick
+Multi-Blast
+Bloodthirsty Blade
+Tri-Death
+Calamity Cannon
+Delta Block
+Royal Veil
+Protect Order
+Element Bomb I
+Element Bomb II
+Front Command
+Shot Command
+Bind Rush
+Miracle Edge
+Spark Blade
+Guard Rush
+Clear Mind
+War Heal
+War Heal Line
+Displace
+Strange Seeds
+Strength Slash
+Guard Slash
+Blade Barrage
+Enchanted Eyes
+Hurricane Punch
+Feast
+Ocean Rave
+Pierce
+DUMMY
+Smoke Cannon
+Sleep Tail
+DUMMY
+Bite
+Boulder Toss
+Deathbringer
+DUMMY
+Black Flash
+Dragon Smash
+Sonic Scream
+Curse Strike
+Barrage
+Vertigo Slash
+Hellish Pinwheel
+Evil Cry
+Limb Crusher
+Hammerhead
+Leg Zapper
+Fear Glint
+Calamity Arrows
+Biting Flurry
+Rend
+Massacre Wave
+Alluring Body
+Vertigo Lash
+Sticky Spit
+Sky Dive
+Devourer Needle
+Coiling Vine
+Queen's Verdict
+Boomerang Hook
+Frozen Fury
+DUMMY
+Cut Jar
+Bash Jar
+Stab Jar
+DUMMY
+Petrify Gas
+Skill 296
+Skill 297
+Skill 298
+Skill 299
+Skill 29A
+Vampire
+War Edge Master
+War Heal
+War Heal Line
+Displace
+Random Disease
+Strength Slash
+Guard Slash
+Take
+Status DEF Up
+HP Up
+Rouse
+Artery
+War Response
+War Revive
+Headcut
+Armcut
+Legcut
+Phys ATK Up
+Mind Drain
+Epidemic
+War Heal All
+Barrier
+Ailing Slash
+War Edge Power
+Fairy Robe
+Force 3
+Proficiency
+Bracing Walk
+Circle Boon
+Curse Circle
+Nerve Circle
+Chain Circle
+Snare Circle
+Dismiss Heal
+Chop
+Status ATK Up
+Warding Mist
+Sleep Circle
+Hood Circle
+Dismiss Revive
+Dismiss Blow
+Charm Eye
+Atrophic Eye
+Tame Ground
+Circle Mastery
+TP Return
+Chaos Circle
+Poison Circle
+Dismiss Blast
+Dismiss Quake
+Circle Paradise
+Releasal Spell
+Force 3
+Earth's Bounty
+Excavation
+Flee
+Sympathy Pain
+Play Possum
+Strange Seeds
+Slap Awake
+Keen Eye
+Harvestry
+Persistence
+Fearless
+Waste Not
+Godsend
+Share the Wealth
+Rotten Egg
+Survival Wisdom
+Rain or Shine
+Safe Stroll
+Blessed Remains
+Fruitful Song
+Nature's Blessing
+Harvest Festival
+Lullaby
+Double Crop
+Item Echo
+Final Secret
+Force 3
+Artery
+War Response
+War Revive
+Headcut
+Armcut
+Legcut
+War Heal All
+Curse Circle
+Nerve Circle
+Chain Circle
+Snare Circle
+Circle Boon
+Sleep Circle
+Hood Circle
+Chaos Circle
+Poison Circle
+Proficiency
+Undying Soul
+Ghastly March
+Sunlight Damage
+Night Heal
+Ghastly March

@@ -1,0 +1,1271 @@
+
+
+
+Blank 
+Attack 
+HP Up 
+TP Up 
+Phys ATK Up 
+Phys DEF Up 
+Sword Mastery 
+Axe Mastery 
+Fencer 
+Double Attack 
+War Cry 
+Swordbreaker 
+Triple Charge 
+Raging Edge 
+Tornado 
+Falcon Slash 
+Blinding Slash 
+Hurricane 
+Boomerang Axe 
+Stunning Smash 
+Head Bash 
+Charge Smash 
+Heavy Smash 
+Fire Chaser 
+Ice Chaser 
+Volt Chaser 
+Mine 
+Full Charge 
+Full Gain 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Curb ATK Up 
+Speed Up 
+Bow Mastery 
+Sneak Attack 
+Disabling Shot 
+Efficiency 
+Multi-Shot 
+Chain Dance 
+Scapegoat 
+Trick Step 
+Swap Step 
+Blind Arrow 
+Sleep Arrow 
+Paralysis Arrow 
+Flank Shot 
+Drop Shot 
+Sagittarius Shot 
+Hazy Arrow 
+Resuscitate 
+Owl-Eye 
+Risk Perception 
+Stalker 
+Natural Instinct 
+Illusion Step 
+Summer Rain 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Phys DEF Up 
+Elem DEF Up 
+Pre-Provoke 
+Shield Mastery 
+Aegis 
+Parry 
+Fortify 
+Provoke 
+Line Heal 
+Line Cure 
+Armor of Light 
+Keep Guard 
+Heal Guard 
+Front Guard 
+Rear Guard 
+Fire Wall 
+Ice Wall 
+Volt Wall 
+Sentinel Guard 
+Shield Smite 
+Shield Rush 
+Flee 
+Mine 
+Shield Protect 
+Perfect Defense 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Phys ATK Up 
+Curb ATK Up 
+Sword Mastery 
+Whip Mastery 
+Perseverance 
+Snake Eyes 
+Bind Heart 
+Temptation 
+Gag 
+Cuffs 
+Shackles 
+Ecstasy 
+Viper 
+Crimson Rouge 
+Hypno Bite 
+Nerve Bite 
+Mirage Bite 
+Soul Liberator 
+Drain Bite 
+Scorpion 
+Attack Bait 
+Elemental Bait 
+Chop 
+Trance 
+Rose Prison 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Phys ATK Up 
+Elem DEF Up 
+Final Gift 
+Heal Mastery 
+Staff Mastery 
+Scavenge 
+Cure 
+Salve 
+Healing 
+Line Heal 
+Salve 2 
+Chase Heal 
+Delayed Heal 
+Revive 
+Unbind 
+Refresh 
+High Regen 
+Heavy Strike 
+Vital Hit 
+Medical Rod 
+Overheal 
+Safe Passage 
+Take 
+Steady Hands 
+Medical Miracle 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Elem ATK Up 
+Elem DEF Up 
+Formula Mastery 
+Palm Mastery 
+Additional Palm 
+Splash Palm 
+Fire Palm 
+Ice Palm 
+Volt Palm 
+Compression 
+Fire Formula 
+Flame Formula 
+Inferno Formula 
+Ice Formula 
+Freeze Formula 
+Cocytus Formula 
+Volt Formula 
+Spark Formula 
+Thor Formula 
+Nuclear Formula 
+Riot Formula 
+Sight Formula 
+Chop 
+Analysis 
+Eschaton 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Speed Up 
+Holy Gift 
+Healing Rhythm 
+Song Mastery 
+Energy Ensemble 
+Life Ensemble 
+Skanda Ensemble 
+Reverb 
+Warrior Song 
+Shelter Song 
+Insight Melody 
+Lightfoot Melody 
+Health Requiem 
+Fire Prelude 
+Ice Prelude 
+Volt Prelude 
+Barbaric March 
+Flame Fantasia 
+Frost Fantasia 
+Shock Fantasia 
+Jovial March 
+Alluring Ballad 
+Take 
+War Song 
+Crusade 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Phys ATK Up 
+Katana Mastery 
+Upper Stance 
+Clear Stance 
+Drawing Stance 
+Pre-Initiative 
+Upward Slash 
+Charging Thrust 
+Sheath Strike 
+Horse Slash 
+Flame Grater 
+Swallow Strike 
+Arm Strike 
+Lightning Stab 
+Moon Shadow 
+Beheading Cut 
+Frigid Slash 
+Ground Strike 
+Peerless Combo 
+Peerless Stance 
+Perfect Chaser 
+Post-Initiative 
+Mine 
+Immovable 
+Issen 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Curb ATK Up 
+Curb DEF Up 
+Curse Mastery 
+Chained Benefit 
+Sapping Curse 
+Frailty Curse 
+Weakening Curse 
+Cranial Curse 
+Abdomen Curse 
+Immobile Curse 
+Venom Curse 
+Blinding Curse 
+Torpor Curse 
+Madness Curse 
+Corrupt Curse 
+Evil Eye 
+Suicide Word 
+Conflict Word 
+Shielding Word 
+Life Trade 
+Sacrifice 
+Reincarnate 
+Chop 
+Creeping Curse 
+Black Mist 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Phys ATK Up 
+Gun Mastery 
+Cover Fire 
+Double Action 
+Preemptive Shell 
+Penetrator 
+Shell Shock 
+Act Quick 
+Point Blank 
+Medic Bullet 
+Head Snipe 
+Arm Snipe 
+Leg Snipe 
+Fire Rounds 
+Charged Fire 
+Ice Rounds 
+Charged Ice 
+Volt Rounds 
+Charged Volt 
+Ricochet 
+Charged Shot 
+Burst Shot 
+Take 
+Action Boost 
+Supreme Bolt 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Phys ATK Up 
+Curb DEF Up 
+War Edge Mastery 
+War Lore Mastery 
+Vampire 
+War Heal 
+War Heal Line 
+War Heal All 
+War Response 
+Artery 
+War Revive 
+Displace 
+Warmight 
+Rockskin 
+Random Disease 
+Barrier 
+Ailing Slash 
+Legcut 
+Armcut 
+Headcut 
+Strength Slash 
+Guard Slash 
+Chop 
+War Edge Power 
+Fairy Robe 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Phys ATK Up 
+Phys DEF Up 
+Deadly Resolve 
+Auto-Lick 
+Loyalty Mastery 
+Claw Mastery 
+Preemptive Roar 
+Lick Wounds 
+Self-Defense 
+Bull Charge 
+Endurance 
+Protect 
+Hit-Taker 
+Protection Vow 
+Beast Roar 
+Berserk 
+Beast Dance 
+Savage Rush 
+Tiger Blow 
+Wolf Fang 
+Comet Drop 
+Wildblow 
+Natural Instinct 
+Desperation 
+True Endurance 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Curb DEF Up 
+Royal Veil 
+Triumphant Cry 
+Monarch March 
+Order Mastery 
+Morale Boost 
+Attack Order 
+Guard Order 
+Prevent Order 
+Protect Order 
+Dauntless Order 
+Holy Crown 
+Fire Circle 
+Freeze Circle 
+Shock Circle 
+Link Order 
+Link Order II 
+Ad Nihilo 
+Negotiation 
+White Noble 
+Clearance 
+Cheer 
+Take 
+Victory Vow 
+Proof of Nobility 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Phys ATK Up 
+Phys DEF Up 
+Spear Mastery 
+Bloodlust 
+Turning Tide 
+Battle Instinct 
+Draining Thrust 
+Draining Burst 
+Legion Thrust 
+Legion Burst 
+Delayed Charge 
+Cross Charge 
+Long Thrust 
+Head Pierce 
+Spear Assist 
+Limitless 
+Stigmata 
+Black Sabbath 
+Blood Fortune 
+Mine 
+Allied Bonds 
+Spirit Shield 
+Bloody Offense 
+Hero Battle 
+Gae Bolg 
+DUMMY 
+DUMMY 
+DUMMY 
+HP Up 
+TP Up 
+Phys ATK Up 
+Elem ATK Up 
+Blade Mastery 
+Force Mastery 
+Limit Break 
+Force Energy 
+Weapon Free 
+Vital Shut 
+Mind Shut 
+Absorb 
+Force Charge 
+Sonic Raid 
+Flame Sabre 
+Freeze Sabre 
+Shock Sabre 
+Gale Rush 
+Overkiller 
+Delayed Chase 
+Full Slash 
+Resonance 
+Force Reset 
+Force Shield 
+Fire Wave 
+Ice Wave 
+Thunder Wave 
+Blade Recoil 
+Meteor Smash 
+Power Cell 
+Extend 
+Self-Regenerate 
+Accelerate 
+Mine 
+Transform 
+Ignition Ray 
+Akashic Nova 
+DUMMY 
+DUMMY 
+DUMMY 
+Wolf Pack 
+Forest Guardian 
+Queen's Mark 
+Abyssal Prayer 
+Phoenix Wings 
+Yggdra Vaccine 
+Offering Robe 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+Medica 
+Amrita 
+Hamao 
+Nectar 
+Nectar 
+Soma Type 
+Soma Type 
+Theriaca A 
+Theriaca A 
+Theriaca B 
+Theriaca B 
+Last Chase 
+Laudanum 
+Unihorn 
+Bravant 
+Stonard 
+Fire Mist 
+Ice Mist 
+Volt Mist 
+Cut Mist 
+Bash Mist 
+Stab Mist 
+All Mist 
+Blaze Oil 
+Freeze Oil 
+Shock Oil 
+Boost Up 
+Flash Bomb 
+Sonic Bomb 
+EXP Up 
+Encyclopedia 
+Lucky Scarab 
+Hunting Horn 
+Four-Leaf Clover 
+Fire Talisman 
+Ice Talisman 
+Volt Talisman 
+Flame Talisman 
+Freeze Talisman 
+Shock Talisman 
+Blind Incense 
+Poison Incense 
+Nerve Gas 
+Confuse Gas 
+Curse Gas 
+Sleep Gas 
+Tangler: Head 
+Tangler: Arms 
+Tangler: Legs 
+Incarnation Charm 
+Yggdra Virus 
+Food: West 21 
+Good Effect 5 
+Bad Effect 1 
+Bad Effect 4 
+Bad Effect 6 
+Regenurtica 
+Gingerlife 
+Echinaceup 
+Amalawake 
+Elderflower 
+Bison Lamian 
+Fried Rice 
+Fried Whole Spider 
+Overcooked Meat 
+Owl Cartilage Karaage
+Forest Deer Sukiyaki 
+Snow Egg Oden 
+Boar Tonjiru 
+Sweet & Sour Moa 
+Seared Deer 
+Revenge Plan 
+Bracing Plan 
+Manhan Quanxi 
+Firestorm 
+Stone Gleam 
+Siren Song 
+Flood 
+Thunderwing 
+Revenge Plan 
+Reckless Swing 
+Fire Chaser 
+Ice Chaser 
+Volt Chaser 
+Sagittarius Shot 
+Attack Bait 
+Attack Bait 
+Magic Bait 
+Magic Bait 
+Blood Rouge 
+DUMMY 
+Delay Heal 
+Additional Palm 
+Healing Lullaby 
+Peace Ballad 
+Echoing Rondo 
+Harmonized Chase 
+Overhead Stance 
+Clear Stance 
+Drawing Stance 
+Peerless Trio 
+DUMMY 
+Bloodlust 
+Dummy 
+Delayed Charge 
+Cross Charge 
+Battle Instinct 
+Life Trade 
+Reincarnate 
+Sacrifice 
+War Heal 
+War Heal Line 
+War Heal All 
+War Response 
+Artery 
+War Revive 
+Legcut 
+Armcut 
+Headcut 
+Strength Slash 
+Guard Slash 
+DUMMY 
+Endurance 
+Comet Drop 
+Royal Veil 
+Protect Order 
+Link Order 
+Link Order II 
+Displace 
+Chase Heal 
+High Regen 
+Medical Rod 
+Overheal 
+Healing Rhythm 
+Life Ensemble 
+Final Gift 
+Overkiller 
+Delayed Chase 
+Blade Recoil 
+Self-Regenerate 
+Illusion Step 
+Dummy 
+Dummy 
+Dummy 
+Auto-Heal 
+Force Energy 
+Ultimate Endurance 
+DUMMY 
+DUMMY 
+DUMMY 
+DUMMY 
+DUMMY 
+DUMMY 
+DUMMY 
+DUMMY 
+DUMMY 
+DUMMY 
+DUMMY 
+DUMMY 
+DUMMY 
+Cut Up 
+Stab Up 
+Bash Up 
+Fire Up 
+Ice Up 
+Volt Up 
+Ailment Up 
+Bind Up 
+Grimoire Chance Up 
+Rare Enemy Up 
+Ail Rec Up 
+Bind Rec Up 
+Drop Amount Up 
+Victory HP 
+Victory TP 
+Auto-Heal 
+Self-Heal Amp 
+Force Up 
+Skill Level Up 
+Turn TP 
+TP Cost Recovery 
+Cut Talisman 
+Bash Talisman 
+Stab Talisman 
+Fear Incense 
+Stone Incense 
+Oversoma 
+Convalescent Drink 
+DUMMY 
+DUMMY 
+DUMMY 
+NONE 
+NONE 
+Hard Shell 
+Desperate Needle 
+Ensnaring Web 
+Poison Powder 
+Scorching Laser 
+Solar Flame 
+Rolling 
+Beaked Rush 
+Dive Kick 
+Sleep Powder 
+Snail March 
+Charge 
+Freezing Snare 
+Baffling Step 
+Knockdown 
+Paralyze Fang 
+Rending Bite 
+Menacing Glare 
+Cruel Fangs 
+Heaven's Bolt 
+Tail Whip 
+Toxic Secretion 
+Drain Dive 
+Stunning Spores 
+Strike Up 
+Sweep Strike 
+Heavy Stomp 
+Binding Vines 
+Gouging Thorn 
+Bullrush 
+Flame Breath 
+Insulation Gel 
+Strike Down 
+Confusing Dust 
+Slashing Claws 
+Corrosive Aura 
+Blast Horn 
+Powerful Rage 
+Poison Pollen 
+Self-Destruct 
+Hammerhead 
+Revenge Needle 
+Double Needle 
+Fire God's Fury 
+Fearsome Roar 
+Spin Drive 
+Harsh Cry 
+Dust Tail 
+Clash 
+Curse Fang 
+Death Stare 
+Lava Boulder 
+Waterproof Fire 
+Snowball 
+Confusing Blitz 
+Chase Down 
+Stomp 
+Freezing Breath 
+Harsh Buzz 
+Trample 
+Shielding Shell 
+Destructive Fang 
+Ice Fin 
+White Wings 
+Stone Gaze 
+Shock Assault 
+Hailstorm 
+Assault Howl 
+Frost Fang 
+Venom Fang 
+Eye of Madness 
+Onrush 
+Elemental Gel 
+Ice King's Howl 
+Sealing Bolt 
+Poison Sting 
+Wind Guard 
+Crushing Jaw 
+Black Wings 
+Binding String 
+Confusing Dust 
+Slice and Dice 
+Air Slash 
+Terror Sting 
+Discharge 
+Cannibalize 
+Night Call 
+Crazed Fang 
+Brutal Ray 
+Do or Die 
+Horn Smash 
+Jump 
+Hex 
+Gale Wings 
+Tearing Claws 
+Reaping Claws 
+Thunderous Fury 
+Crazed Glare 
+Ripping Claws 
+Last Cry 
+Headbutt 
+Cripple 
+Frail Aura 
+Power Gel 
+Revenge Claw 
+Silver Bullet 
+Nightmare 
+Night Run 
+King of Kings 
+Revenge Blade 
+Glinting Blade 
+Death's Edge 
+Dark Blade 
+EMP 
+Stance 
+Slaughter Blade 
+Greedy Bite 
+Electric Impact 
+Ancient Guard 
+Affection Collar 
+Curse Dance 
+Rejection Needle 
+Vile Fangs 
+Scorching Light 
+Madness Dust 
+Evil Cry 
+Triple Death 
+Bloody Blade 
+Sleep Pollen 
+Dancing Petals 
+Terror Pain 
+Absorb Vine 
+Warhammer 
+Reversal Beat 
+Not Used 
+Playful Bite 
+Frolic 
+Pout 
+Blood Drain 
+Echolocation 
+Toxic Breath 
+Explosives 
+Petrifying Stare 
+Jolting Blow 
+Horror Banquet 
+Holy Shock 
+Command Boars 
+Swing 
+Appraise 
+Infectious Club 
+Destructive Claw 
+Holy Fire 
+Head Splitter 
+Snaring String 
+Poison Fang 
+Confuse Vine 
+Scythe Slash 
+Execution Scythe 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+Snake Pile 
+Great Blaze 
+Double Strike 
+Menacing Roar 
+Madness Roar 
+Dispersed Cruelty 
+Inferno Strike 
+Stun 
+Terror's Embrace 
+Kingly Fire 
+Explosion 
+Blind Laughter 
+Loose Thread 
+Pandemonium 
+Blossom Sketch 
+Corpse Ash 
+Spellsword 
+Nature's Will 
+Blind Laughter 
+Loose Thread 
+Fire Rounds 
+Ice Rounds 
+Volt Rounds 
+Rapid Fire 
+Accelerate 
+Mystic Shot 
+Fire Rounds 
+Ice Rounds 
+Volt Rounds 
+Cry Soul 
+Lullaby 
+Piercing Shell 
+Ice Shave 
+Six Sins 
+Call Ally 
+Tentacle Creep 
+Shrill Cry 
+Chaos Scream 
+Claws of Despair 
+Storm Feather 
+Feast 
+Putrid Breath 
+Violent Cry 
+Berserk Cry 
+Reckless Barrier 
+Tusk Strike 
+Brandish 
+Eradicate 
+King's Rush 
+VOID0 
+VOID1 
+VOID2 
+VOID3 
+LRDA 
+AACV 
+Standby 
+MACV 
+REPAIR 
+Dazzling Sunlight 
+Hail and Rain 
+Crashing Thunder 
+Birth of Anguish 
+Mountain Stream 
+Solitude 
+Message Standby 
+Seek 
+Dance 
+Call Ally 
+Call Ally 
+Hellish Wail 
+Colossal Meteor 
+Grinding Mace 
+Binding Spike 
+Hundred Strikes 
+Avarice Claw 
+Crushing Tail 
+Hellfire Breath 
+Heal Cry 
+Call Ally 
+Null thy Strength 
+Pity the Weak 
+Behold my Power 
+Dance with Lunacy 
+Strongman's Glory 
+Recluse's Glory 
+Value of Solitude 
+My Wrath 
+My Sorrow 
+My Mercy 
+Release my Power 
+Liberating Light 
+Eternal Exodus 
+Howling Winds 
+Noble Rest 
+Unhand Me 
+My Realm 
+Twilight's Gleam 
+Sunlight's Dawn 
+Call Ally 
+Stone Gleam 
+Doom Breath 
+Dark Moon 
+Impairing Claws 
+Pound 
+Call Ally 
+Poison Swamp 
+Silk Spread 
+Silk Spit 
+Venomous Bite 
+Stinger 
+Avalanche 
+Soul Freeze 
+Pile Bunker 
+Buster Arm 
+Crystal Scar 
+Call Ally 
+Electric Arrow 
+Plasma Shot 
+Volt Shot 
+Lightspeed 
+Lightspeed 
+Spindrift 
+Electric Arrow 
+Rising Flame 
+Overpower 
+Condemn Blade 
+Nihil Blade 
+Soundless Blade 
+Flame Formation 
+Release Flame 
+Flash 
+Power of Stone 
+Blind Laughter 
+Blind Laughter 
+None 
+Pandemonium 
+Blossom Sketch 
+None 
+None 
+Seek 
+Crystal Scar 
+None 
+Power of Stone 
+Power of Stone 
+Power of Stone 
+Release my Power 
+Release my Power 
+Unhand Me 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+None 
+Stomach Acid 
+Bracing Liquid 
+Freezing Fluid 
+Survival Instinct 
+Paralyzing Fluid 
+Chase Laser 
+Hell Thread 
+Special Standby 
+Poison Sap 
+Infernal Rounds 
+Survive 
+Chase Laser 
+Thousand Eyes 
+Forbidden Light 
+Cell Membrane 
+Frost Bomb 
+Cell Membrane 
+None 
+None 
+None 
+None 
+Stomach Acid 
+Bracing Liquid 
+Freezing Fluid 
+Paralyzing Fluid 
+Poison Sap 
+Hell Thread 
+Revenge Needle 
+Rejection Needle 
+Do or Die 
+Cannibalize 
+Cannibalize 
+Glinting Blade 
+Slaughter Blade 
+Warhammer 
+Reversal Beat 
+Survival Instinct 
+Ice Breath 
+Mirror Shield 
+Crushing Arm 
+Cold Regen 
+Wail 
+Triple Strike 
+Call Ally 
+Resonant Ice 
+Volt Torrent 
+Ancient Curse 
+Judgement 
+Corrupting Howl 
+Binding Dance 
+Call Ally 
+Resonant Thunder 
+Fire Torrent 
+Resonant Roar 
+Dragon Strike 
+Draconic Fury 
+Dragon Claw 
+Wyrm Quake 
+Call Ally 
+Resonant Fire 
+Wing Talon 
+Tail Strike 
+Whirlwind 
+Burning Ray 
+Sharp Roar 
+Flame Formation 
+Mirror Shield 
+Calamity Fangs 
+AACV 
+MACV 
+My Realm 
+Poison Swamp 
+Release Flame 
+Regen 
+Force Wall 
+Power Wall 
+Rock Hammer 
+Triple Hammer 
+Infernal Rounds 
+Blessed Light 
+Plague Club 
+Crush 
+Reflect Guard 
+Berserk Vines 
+Ensnaring Vines 
+White Plasma 
+Steel Stinger 
+Freeze 
+Red Plasma 
+Healing Dance 
+Crazed Dance 
+Command Boars 
+Forbidden Light 
+Thousand Eyes 
+Reflect Guard 
+Calamity Eyes 
+Core Charge 
+None 
+Pitfall Snare 
+Pitfall Escape 
+Root Cyclone 
+Earth Slash 
+Demon's Lance 
+Poison Dust 
+Calamity Eyes 
+Ruinous Curse 
+Pandemic 
+Isolate 
+Armageddon 
+End Times 
+Core Charge 
+Segment 
+Giga Flame 
+Freezing Nova 
+Thunder Rain 
+Awaken 
+Fang Flurry 
+Glacial Fin 
+Torment Barb 
+Execution Barb 
+Earth Slash 
+Demon's Lance 
+Giga Flame 
+Freezing Nova 
+Thunder Rain 
+Paralyze All (D) 
+Fear All (D) 
+Sleep All (D) 
+Confuse All (D) 
+Stun All (D) 
+Head Bind All (D) 
+Arm Bind All (D) 
+Leg Bind All (D) 
+Kill All (D) 
+Petrify All (D) 
+None 
+None 
+None 
+None 
+None 
+Power Needle 
+Tentacle Rage 
+Shock Swing 
+Venom Claw 
+Chaos Slash 
+Toxic Gas 
+Power Needle 
+Toxic Gas 
+Horrific Roar 
+Cold Fangs 
+Silver Fang 
+Binding Howl 
+Silent Stare 
+Cross Counter 
+Cross Counter 
+Horn Rush 
+Combo Smash 
+Hurricane Punch 
+Cure 
+Holy Veil 
+Crunch 
+Queen's Verdict 
+Duster 
+Ruler's Eye 
+Attack Unit 
+Defense Unit 
+Ice Breath 
+Flood 
+Tackle 
+Coiling Tail 
+Freeze Aura 
+Aqua Veil 
+Thunderwing 
+Pinion Spear 
+Deathbringer 
+Chaosbringer 
+Grip 
+Wind Breath 
+Flame Sigh 
+Frost Smile 
+Lightning 
+Tendril Thrash 
+Vampiric Kiss 
+Ancient Pollen 
+Demon's Croon 
+Dark Claw 
+Poison Tail 
+Petra Voice 
+Glutton 
+Snaring Tentacle 
+Greed 
+Dread Stare 
+Chi Burst 
+Crimson Cyclone 
+Phoenix Strike 
+Suzaku Stance 
+Heavy Jump 
+Hydro Jump 
+Lick Around 
+Hug 
+Get Excited 
+Calm Down 
+Fixed Stare 
+Despise Solitude 
+Darkness Shroud 
+Realm of Death 
+Shed thy Tears 
+Know thy Reason 
+Selfless Strength 
+Call Ally 
+Death's Glimmer 
+Wave of Ruin 
+Get Excited 
+Calm Down 
+Darkness Shroud 
+Realm of Death 
+Wave of Ruin 
+Spider Lily 
+Light Speed 
+None 
+None 

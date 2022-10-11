@@ -1,0 +1,422 @@
+Blank
+Attack
+Proficiency
+Expertise
+Enlightenment
+Swordbreaker
+Weapon Parry
+Initiative
+Link Mastery
+Power Boost
+Iron Wall
+Vanguard
+Improved Link
+Power Break
+Mind Break
+Sonic Raid
+Blazing Link
+Freezing Link
+Electric Link
+Double Strike
+Spiral Slice
+Sword Tempest
+Penetrate
+Swift Stab
+Bandage
+Mineralogy
+Muscular Chef
+Proficiency
+Expertise
+Enlightenment
+Blade Flurry
+Follow Trace
+Auto-Cloak
+Auto-Spread
+Foul Mastery
+Speed Boost
+Shadow Cloak
+Decoy Sign
+Spread Throw
+Ice Knife
+Biding Slice
+Assassinate
+Shadow Bite
+Swift Edge
+Sand Throw
+Venom Throw
+Sleep Throw
+Nerve Throw
+Curse Throw
+Sneak Attack
+Herbology
+Agile Chef
+Proficiency
+Expertise
+Enlightenment
+KnightÅfs Boon
+Healing Wall
+Auto-Taunt
+Guard Mastery
+Iron Wall
+HP Boost
+Rampart
+Taunt
+Bolt Strike
+Holy Smite
+Vengeance Bash
+Earth Break
+Ally Shield
+Line Shield
+Party Shield
+Weak Shield
+Holy Blessing
+Strike Guard
+Element Guard
+Sentry
+Mineralogy
+Hardy Chef
+Proficiency
+Expertise
+Enlightenment
+Scavenger
+Bullseye
+Chase Bind
+Snipe Mastery
+High Caution
+Power Boost
+Eagle Eye
+Spotter
+Lock On
+Long Shot
+Leg Snipe
+Arm Snipe
+Head Snipe
+Steel Arrow
+Silver Arrow
+Impact Arrow
+Flank Shot
+Squall Volley
+Divine Shot
+Camouflage
+Dendrology
+Discerning Eye
+Proficiency
+Expertise
+Enlightenment
+Patch Up
+Auto-Heal
+Auto-Revive
+Heal Mastery
+Stretch
+TP Boost
+Steady Hands
+Group Therapy
+Healing
+Line Heal
+Party Heal
+Full Heal
+Revive
+Treat
+Refresh
+Recovery
+Full Refresh
+Heavy Strike
+Knockout Blow
+Star Drop
+Herbology
+Toxin Study
+Proficiency
+Expertise
+Enlightenment
+Runic Shield
+Runic Guidance
+Rune Mastery
+Free Energy
+TP Boost
+Runic Flare
+Runic Gleam
+Fire Rune
+Ice Rune
+Volt Rune
+Origin Rune
+Fireball Rune
+Flame Rune
+Inferno Rune
+Ice Lance Rune
+Glacier Rune
+Blizzard Rune
+Lightning Rune
+Storm Rune
+Galvanic Rune
+Herbology
+Wise Chef
+Proficiency
+Expertise
+Enlightenment
+Sword Dance
+Fan Dance
+Dance Mastery
+Burst Saver
+Mist Dance
+Speed Boost
+Quick Step
+Regen Waltz
+Freedom Waltz
+Refresh Waltz
+Attack Tango
+Guard Tango
+Energy Tango
+Counter Samba
+Chase Samba
+Trick Samba
+Healing Step
+Wide Dance
+Rush Dance
+Beat Dance
+Dendrology
+Lucky Chef
+Proficiency
+Expertise
+Enlightenment
+Warding Mist
+Circle Boon
+TP Return
+Bracing Walk
+Circle Mastery
+Ailment Boost
+Dismiss Blow
+Dismiss Blast
+Dismiss Heal
+Releasal Spell
+Nerve Circle
+Sleep Circle
+Poison Circle
+Chaos Circle
+Hood Circle
+Chain Circle
+Snare Circle
+Charm Eye
+Atrophic Eye
+Tame Ground
+Herbology
+Purist Chef
+Proficiency
+Expertise
+Enlightenment
+Defiance
+Auto-Surge
+Endure
+Ferocity
+Surge Mastery
+Power Boost
+Charge
+Blood Surge
+Deep Breath
+Roar
+Nerve Strike
+Shockwave
+Moon Slash
+Ice Slash
+Flash Slice
+Multi-Slash
+Skull Crusher
+Fire Strike
+Meteor Strike
+Fierce Strike
+Dendrology
+Robust Chef
+Proficiency
+Expertise
+Enlightenment
+Absorber
+Wide Effect
+Finisher
+Drive Mastery
+Power Boost
+Element Boost
+Hawkeye
+Rear Guard
+Heat Sink
+Ignition
+Sharp Edge
+Impulse Edge
+Cool Edge
+Charge Edge
+Assault Drive
+Flame Drive
+Freeze Drive
+Shock Drive
+Accel Drive
+Overdrive
+Mineralogy
+Hunter Sense
+Full Retreat
+Calm Breath
+Analyze
+Double Slash
+Flame Wall
+Holy Gift
+Superspeed
+Black Mist
+Charge Order
+Guard Order
+Ice Coffin
+Aegis Guard
+Aegis Ward
+Falling Stars
+Triumph Song
+Swipe Slash
+Spectral Cage
+Aegis Shield
+ZeusÅf Wrath
+Geo Impact
+Supernova
+HygieiaÅfs Bowl
+Acupuncture Pin
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Trick Samba
+Chase Bind
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Nerve Circle
+Sleep Circle
+Poison Circle
+Chaos Circle
+Hood Circle
+Chain Circle
+Snare Circle
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Fusillade
+Beat Dance
+NONE
+Reflector
+EM Barrier
+Kaishaku
+NONE
+NONE
+Regen Waltz
+Freedom Waltz
+Refresh Waltz
+Biding Slice
+Buc Farm
+Counter Samba
+Snipe
+Sharpshooter
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Medica
+Amrita
+Hamao
+Nectar
+Nectar
+Soma
+Theriaca A
+Theriaca A
+Theriaca B
+Theriaca B
+NONE
+NONE
+NONE
+Discharge
+Ice Stake
+NONE
+Strange Seeds
+Tiger Counter
+Rush Dance
+Vengeance Bash
+Counter
+Retaliate
+Chase Saber
+Chase Blow
+Chase Thrust
+Chase Samba
+Chase Ice
+Chase Volt
+Makibishi
+Ambush Stance
+Rocket Punch
+Rocket Head
+Rocket Jump
+Red Bot
+Blue Bot
+Yellow Bot
+All Out
+Infect
+Restore Mark
+Fire Prophecy
+Ice Prophecy
+Volt Prophecy
+Last Chase
+Metopon
+Unihorn
+Bravant
+Stonard
+Fire Mist
+Ice Mist
+Volt Mist
+Cut Mist
+Bash Mist
+Stab Mist
+Blaze Oil
+Freeze Oil
+Shock Oil
+Fire Jar
+Blast Jar
+Ice Jar
+Frost Jar
+Volt Jar
+Thunderbolt Jar
+Poison Gas
+Nerve Gas
+Blind Gas
+Sleep Gas
+Curse Gas
+Addle Gas

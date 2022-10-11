@@ -1,0 +1,602 @@
+Blank
+Attack
+Rapier Mastery
+Sylphid
+Chain Boost
+Predict
+Wind Curtain
+Optic Thrust
+Chain Burst
+Chain Flame
+Chain Freeze
+Chain Shock
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shield Mastery
+Cannon Mastery
+Defense Form
+Dragon Roar
+Decoy Bunker
+Line Guard
+Healing Guard
+Mana Guard
+Gunmount
+Barrage Wall
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Magi Mastery
+Amplifier
+Fireball
+Icicle Lance
+Lightning
+Magic Shield
+Focus Chant
+Quick-Chant
+Levitation
+Invisibility
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bow Mastery
+Animal Therapy
+Brushing
+Target Arrow
+Hound Whistle
+Hawk Whistle
+Hunter Shot
+Aid Command
+Hawk Arrow
+Wing Thrash
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Duel
+Katana Mastery
+Peerless Demon
+Whirlwind
+Haze Slash
+Armor Pierce
+Swallow Soar
+Air Blade
+High Ground
+New Challenger
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prayer Mastery
+Dance Oracle
+Gospel
+Blaze Prayer
+Hail Prayer
+Bolt Prayer
+Ruinous Prayer
+Aegis Prayer
+Focus Prayer
+HeavenÅfs Gift
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Herb Mastery
+Antibodies
+Healing Herb
+Sweeping Herb
+Refreshing Herb
+Revival Herb
+Toxic Smoke
+Dark Smoke
+Smokeblight
+Herb Foraging
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Phys ATK Up
+Blood Wrath
+Brawl Mastery
+One-Two Punch
+Concussion
+Arm Crusher
+Low Blow
+Thunder Fist
+DevilÅfs Fist
+Overexertion
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scythe Mastery
+Endless Shroud
+Paralyzing Reap
+Cursed Reap
+Miasma Armor
+Stifling Miasma
+Wilting Miasma
+Judgment
+Auto-Miasma
+Soul Gather
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wraith Mastery
+Reincarnation
+Gravekeeping
+Summon Wraith
+Poison Bomb
+Flame Bomb
+Wraith Cry
+Soul Candy
+Fierce Shield
+Life Exchange
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rapier Mastery
+Sylphid
+Chain Boost
+Predict
+Wind Curtain
+Optic Thrust
+Chain Burst
+Chain Flame
+Chain Freeze
+Chain Shock
+Ray of Light
+Counter Boost
+Auto-Curtain
+Lure
+Deft Thrust
+Lightweight
+Revenge Thrust
+Divine Gust
+Phantom Swords
+Dodge Boon
+Rapier Mastery
+Sylphid
+Chain Boost
+Predict
+Wind Curtain
+Optic Thrust
+Chain Burst
+Chain Flame
+Chain Freeze
+Chain Shock
+Chain Double
+Sylphscreen
+Phys ATK Up
+Multi-Stab
+Chain Plus
+Chain Killer
+Chain All
+Resonance
+Speed Up
+Sonic Blade
+Shield Mastery
+Cannon Mastery
+Defense Form
+Dragon Roar
+Decoy Bunker
+Line Guard
+Healing Guard
+Mana Guard
+Gunmount
+Barrage Wall
+HP Up
+Auto-Bunker
+Dragon Force
+Auto-Roar
+Soul Guard
+Recovery Guard
+Divide Guard
+Full Guard
+Counter Guard
+Shield Throw
+Shield Mastery
+Cannon Mastery
+Defense Form
+Dragon Roar
+Decoy Bunker
+Line Guard
+Healing Guard
+Mana Guard
+Gunmount
+Barrage Wall
+Gun Revenge
+TP Up
+Phys ATK Up
+Prep Artillery
+Rapid Cannon
+Curse Cannon
+Hypno Cannon
+Buster Cannon
+Decoy Turret
+Gun Support
+Magi Mastery
+Amplifier
+Fireball
+Icicle Lance
+Lightning
+Magic Shield
+Focus Chant
+Quick-Chant
+Levitation
+Invisibility
+Anti-Magic
+Life Siphon
+Magic DEF Up
+Windstorm
+Earthspike
+Rockfall
+Spread Chant
+Altar
+TP Up
+Reserve Magic
+Magi Mastery
+Amplifier
+Fireball
+Icicle Lance
+Lightning
+Magic Shield
+Focus Chant
+Quick-Chant
+Levitation
+Invisibility
+Common Magic
+Cutting Costs
+Magic ATK Up
+Mana Flow
+Explosion
+Hailstorm
+Thunderbreak
+Status DEF Up
+Clever Strike
+Abating Chant
+Bow Mastery
+Animal Therapy
+Brushing
+Target Arrow
+Hound Whistle
+Hawk Whistle
+Hunter Shot
+Aid Command
+Hawk Arrow
+Wing Thrash
+Speed Up
+Phys ATK Up
+Finishing Shot
+Sky Patrol
+Power Shot
+Feather Storm
+Ice Peck
+Aerial Talons
+Million Arrows
+Sky Dive
+Bow Mastery
+Animal Therapy
+Brushing
+Target Arrow
+Hound Whistle
+Hawk Whistle
+Hunter Shot
+Aid Command
+Hawk Arrow
+Wing Thrash
+TP Up
+Healing Up
+Status ATK Up
+Ground Patrol
+Arc Shot
+Menacing Howl
+Guard Command
+Stun Shot
+Foot Pierce
+Medicinal Lick
+Duel
+Katana Mastery
+Peerless Demon
+Whirlwind
+Haze Slash
+Armor Pierce
+Swallow Soar
+Air Blade
+High Ground
+New Challenger
+Multi-Katana
+Phys ATK Up
+Reblossom
+Sacred Tetrad
+Hell Slash
+Layered Bloom
+Vast Flourish
+Reincarnation
+HP Up
+Meteor Rain
+Duel
+Katana Mastery
+Peerless Demon
+Whirlwind
+Haze Slash
+Armor Pierce
+Swallow Soar
+Air Blade
+High Ground
+New Challenger
+Sword God
+TP Up
+Spirit Sword
+Bolt Slash
+Helm Splitter
+Mirror Moon
+Foot Sweep
+Petal Scatter
+Speed Up
+Triple Strike
+Prayer Mastery
+Dance Oracle
+Gospel
+Blaze Prayer
+Hail Prayer
+Bolt Prayer
+Ruinous Prayer
+Aegis Prayer
+Focus Prayer
+Heavens Gift
+Ancient Memory
+Magic ATK Up
+Offering
+TP Up
+Soul Grace
+Mana Oracle
+Purification
+Invoke Gods
+HP Up
+Aureole Oracle
+Prayer Mastery
+Dance Oracle
+Gospel
+Blaze Prayer
+Hail Prayer
+Bolt Prayer
+Ruinous Prayer
+Aegis Prayer
+Focus Prayer
+Heavens Gift
+Appease Spirits
+Status DEF Up
+Split Spirits
+Holy Flame
+Exorcism Prayer
+Haste Prayer
+Vitality Prayer
+Sanctuary
+Magic DEF Up
+Benevolence
+Herb Mastery
+Antibodies
+Healing Herb
+Sweeping Herb
+Refreshing Herb
+Revival Herb
+Toxic Smoke
+Dark Smoke
+Smokeblight
+Herb Foraging
+Herb Boost
+HP Up
+Shared Nostrum
+Bountiful Herb
+Reflex Herb
+Delayed Herb
+Freeing Herb
+Lingering Scent
+Auto-Revive
+Status DEF Up
+Herb Mastery
+Antibodies
+Healing Herb
+Sweeping Herb
+Refreshing Herb
+Revival Herb
+Toxic Smoke
+Dark Smoke
+Smokeblight
+Herb Foraging
+Smoke Boost
+Status ATK Up
+Numbing Smoke
+Chaos Smoke
+Smoke Bomb
+Smokeflash
+Smokestone
+Passing Scent
+Auto-Smoke
+TP Up
+Phys ATK Up
+Blood Wrath
+Brawl Mastery
+One-Two Punch
+Concussion
+Arm Crusher
+Low Blow
+Thunder Fist
+DevilÅfs Fist
+Overexertion
+Double Punch
+Fault Blocker
+Breather
+Clinch
+Cross Counter
+Leading Blow
+Corkscrew
+Lash Out
+Status ATK Up
+Speed Up
+Phys ATK Up
+Blood Wrath
+Brawl Mastery
+One-Two Punch
+Concussion
+Arm Crusher
+Low Blow
+Thunder Fist
+DevilÅfs Fist
+Overexertion
+Fortitude
+Vajra Stance
+SatanÅfs Fist
+Titan Killer
+Soul Crusher
+DeathÅfs Edge
+Abyssal Killer
+Heavenly Aid
+HP Up
+Status DEF Up
+Scythe Mastery
+Endless Shroud
+Paralyzing Reap
+Cursed Reap
+Miasma Armor
+Stifling Miasma
+Wilting Miasma
+Judgment
+Auto-Miasma
+Soul Gather
+Black Shroud
+Black Blade
+Frigid Reap
+Toxic Reap
+Chaos Reap
+Bloody Reap
+Temporal Shroud
+Fatal Reap
+TP Up
+Status ATK Up
+Scythe Mastery
+Endless Shroud
+Paralyzing Reap
+Cursed Reap
+Miasma Armor
+Stifling Miasma
+Wilting Miasma
+Judgment
+Auto-Miasma
+Soul Gather
+Spirit Absorb
+Deaths Asylum
+Eroding Miasma
+Masking Miasma
+Atonement
+Miasma Wall
+Ephemeral Reap
+Soul Transfer
+HP Up
+Magic DEF Up
+Wraith Mastery
+Reincarnation
+Gravekeeping
+Summon Wraith
+Poison Bomb
+Flame Bomb
+Wraith Cry
+Soul Candy
+Fierce Shield
+Life Exchange
+Necromancy
+Burden Shift
+Curse Bomb
+Ice Bomb
+Tombstone Vice
+Grave
+Soul Trade
+Wraith Dance
+HP Up
+Status ATK Up
+Wraith Mastery
+Reincarnation
+Gravekeeping
+Summon Wraith
+Poison Bomb
+Flame Bomb
+Wraith Cry
+Soul Candy
+Fierce Shield
+Life Exchange
+HellÅfs Lure
+Auto-Wraith
+Negative Energy
+Sacrifice
+Gates of Hell
+Fair Trade
+Wraith Explosion
+Zombie Powder
+TP Up
+Magic ATK Up
