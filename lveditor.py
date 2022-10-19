@@ -57,6 +57,9 @@ try:
         currentspOffset = 339
         retirespOffset = 340
         guildslots = 30
+        subclassOffset = 342
+        SsubskillOffset = 562
+        EsubskillOffset = 589
 
     elif gameID == "MO1RGAME": #
         levelOffset = 2116
@@ -87,6 +90,9 @@ try:
         currentspOffset = 2118
         retirespOffset = 2119
         guildslots = 25
+        subclassOffset = 2121
+        SsubskillOffset = 2384
+        EsubskillOffset = 2408
 
     elif gameID == "MO2RGAME": #
         levelOffset = 376
@@ -121,6 +127,9 @@ try:
         currentspOffset = 378
         retirespOffset = 379
         guildslots = 30
+        subclassOffset = 381
+        SsubskillOffset = 588
+        EsubskillOffset = 613
 
     elif gameID == "MOR4GAME": #
         levelOffset = 199
@@ -150,6 +159,9 @@ try:
         currentspOffset = 420
         retirespOffset = 490
         guildslots = 30
+        subclassOffset = 201
+        SsubskillOffset = 447
+        EsubskillOffset = 471
 
     elif gameID == "MO5_GAME": #
         levelOffset = 328
@@ -199,6 +211,9 @@ try:
         currentspOffset = 330
         retirespOffset = 331
         guildslots = 30
+        subclassOffset = 333
+        SsubskillOffset = 546
+        EsubskillOffset = 569
 
     else:
         print(fileContent[0:8].decode('shift-jis'))
@@ -215,6 +230,9 @@ EskillOffsetR = EskillOffset
 classOffsetR = classOffset
 currentspOffsetR = currentspOffset
 retirespOffsetR = retirespOffset
+subclassOffsetR = subclassOffset
+SsubskillOffsetR = SsubskillOffset
+EsubskillOffsetR = EsubskillOffset
 
 
 skillList = []
@@ -222,6 +240,8 @@ skillListName = []
 classlist = []
 currentsplist = []
 retiresplist = []
+subclasslist = []
+subskillList = []
 
 for iniloop in range(guildslots):
 
@@ -230,6 +250,7 @@ for iniloop in range(guildslots):
     classlist.append(fileContent[classOffsetR])
     currentsplist.append(fileContent[currentspOffsetR])
     retiresplist.append(fileContent[retirespOffsetR])
+    subclasslist.append(fileContent[subclassOffsetR])
 
     name = fileContent[snameOffsetR:enameOffsetR].decode('shift-jis')
     namelist.append(name.replace('\x00', ' '))
@@ -245,16 +266,21 @@ for iniloop in range(guildslots):
     classOffsetR += addOffset
     currentspOffsetR += addOffset
     retirespOffsetR += addOffset
+    subclassOffsetR += addOffset
+    subskillList.append(list(fileContent[SsubskillOffsetR:EsubskillOffsetR]))
+    SsubskillOffsetR += addOffset
+    EsubskillOffsetR += addOffset
 
 
 def readFile():
     id=0
-    for ia, ib, ic, ie in zip(lvlist, namelist, benchlist, classlist):
-        print('{:>4}'.format(str(id)+" -"), 
+    for ia, ib, ic, ie, ig in zip(lvlist, namelist, benchlist, classlist, subclasslist):
+        "" if ib == "                   " else print('{:>4}'.format(str(id)+" -"),
         ib, 
         '{:>4}'.format(str(ia)), 
         '{:>6}'.format("Party" if ic == 3 else ""),
-        diction[ie]
+        '{:<14}'.format(diction[ie]),
+        '{:<14}'.format("" if ig == 255 else diction[ig])
         )
 
         id += 1
@@ -270,6 +296,7 @@ def saveFile():
     save2 = partyOffset
     save3 = SskillOffset
     save4 = currentspOffset
+    save5 = SsubskillOffset
 
     with open(saveLocation, 'rb') as rfile:
         fileContent = rfile.read()
@@ -286,17 +313,33 @@ def saveFile():
         fh.write(bytearray(skillList[idsave]))
         fh.seek(save4)
         fh.write(int(currentsplist[idsave]).to_bytes(1, 'little'))
+        fh.seek(save5)
+        fh.write(bytearray(subskillList[idsave]))
         
         idsave += 1
         save1 += addOffset
         save2 += addOffset
         save3 += addOffset
         save4 += addOffset
+        save5 += addOffset
         
+def readskill():
+    with open(skillNameFile) as eoxf:
+        skil = [line.rstrip('\n') for line in eoxf]
+    skillListName = skil[(classlist[y]*skilMult)+skilAdd:]
+
+    id = 0
+    for a, b in zip(skillList[y], skillListName):
+        print('{:>4}'.format(str(id)+" -"),
+                '{:<2}'.format(a),
+                b)
+        id += 1
+    print("Current SP: "+str(currentsplist[y]))
+
 
 while True:
 
-    print("Which ID to edit? (S)ave? (A)dd to party? (R)emove from party? Skill(T)ree?:")
+    print("Which ID to edit level? (S)ave? (A)dd to party/ (B)ench? Skill(T)ree? (R)espec?:")
     x = input()
 
 
@@ -330,7 +373,7 @@ while True:
             print("Can't add more than 6")
 
 
-    elif x.lower() == "r":
+    elif x.lower() == "b":
 
         if benchlist.count(3) > 1:
 
@@ -373,37 +416,38 @@ while True:
     elif x.lower() == "t":
         print("Whom?:")
         y = int(input())
-
-        def readskill():
-            with open(skillNameFile) as eoxf:
-                skil = [line.rstrip('\n') for line in eoxf]
-            skillListName = skil[(classlist[y]*skilMult)+skilAdd:]
-
-            id=0
-            for a, b in zip(skillList[y], skillListName):
-                print('{:>4}'.format(str(id)+" -"),
-                    '{:<2}'.format(a),
-                    b)
-                id+=1               
-            print("Current SP: "+str(currentsplist[y]))    
         readskill()
 
-        print("Which skill? (R)espec?:")
+        print("Which skill?:")
         skillidinput = input()
 
-        if skillidinput == "r":
-            
+        print("To what level?:")
+        skilllvinput = int(input())
+        skillList[y][int(skillidinput)] = skilllvinput
+        readskill()
+        print("Done")
+
+
+    elif x.lower() == "r":
+        print("Whom?:")
+        y = int(input())
+
+        if gameID == "MO5_GAME":
+
             skillList[y] = [0]*skilMult
-            currentsplist[y] = lvlist[y]+2+retiresplist[y]
+            subskillList[y] = [0]*24
+            currentsplist[y] = lvlist[y]+2+retiresplist[y]+5 if classlist[y]>9 else lvlist[y]+2+retiresplist[y]
             readskill()
             print("Respec'd")
 
         else:
-            print("To what level?:")
-            skilllvinput = int(input())
-            skillList[y][int(skillidinput)] = skilllvinput
+            skillList[y] = [0]*skilMult
+            subskillList[y] = [0]*skilMult
+            currentsplist[y] = lvlist[y]+2+retiresplist[y] if subclasslist[y] == 255 else lvlist[y]+2+retiresplist[y]+5
             readskill()
-            print("Done")
+            print("Respec'd")
+
+
 
     else:
         print("Error")
