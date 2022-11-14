@@ -9,4 +9,4 @@ I'm not a programmer so make sure to backup your save, even if this script makes
 # How to use
 Drag and drop the save, make the changes you want and then save.
 
-Options: 0-29, s, a, r, t
+Options: 0-29, s, a, b, t, r
