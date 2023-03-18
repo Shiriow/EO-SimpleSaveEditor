@@ -156,7 +156,7 @@ try:
         skilMult = 25
         skilAdd = 2
         skillNameFile = scriptLocation+'/eo4.txt'
-        currentspOffset = 420
+        currentspOffset = 421
         retirespOffset = 490
         guildslots = 30
         subclassOffset = 201
