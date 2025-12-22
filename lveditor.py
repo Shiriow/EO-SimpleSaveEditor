@@ -50,6 +50,8 @@ try:
             16:	"WarMagus",
             17:	"Arcanist",
             18:	"Farmer",
+            19:	"Buccaneer",
+            20:	"Alchemist",
         }
         skilMult= 27
         skilAdd = 2
